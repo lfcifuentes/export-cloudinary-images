@@ -17,5 +17,14 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# Environment configuration file
+.env
+
 # Go workspace file
 go.work
+
+*.png
+*.jpeg
+*.jpg
+
+**/**/
